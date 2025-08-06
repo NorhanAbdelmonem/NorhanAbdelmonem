@@ -6,12 +6,12 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=5A88CA&center=true&vCenter=true&width=450&lines=Backend+Developer;Java+Enthusiast;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=5A88CA&center=true&vCenter=true&width=450&lines=Java+Backend+Developer;I'm+Learning+SpringBoot+;Problem+Solver)
 
 ---
 
 ## 🚀 About Me
-I'm a passionate Backend Developer with experience building scalable APIs using **Java** and **Spring Boot**.  
+I'm a passionate  Backend Developer with experience building scalable APIs using **Java** and **Spring Boot**.  
 Also skilled in Frontend technologies and database management, always eager to learn and collaborate on meaningful projects.
 
 ---
