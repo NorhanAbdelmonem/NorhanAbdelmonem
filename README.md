@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=I'm+Java+Backend+Developer;I'm+learning+Spring+Boot;Problem-Solving+Crafting+Awesome+APIs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=I'm+Java+Backend+Developer;I'm+learning+Spring+Boot;I'm+Problem-Solver;+Crafting+Awesome+APIs!" />
 </p>
 ---
 
