@@ -6,107 +6,45 @@
 ---
 
 
-</div>
+# 👋 Hi, I'm Norhan Abdelmonem (Lightou)
 
-### 🚀 Quick Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap 
-- 🛠️ Backend: Java, Spring Boot
-- 🗃️ Databases: MySQL, MongoDB 
+![header](https://github.com/NorhanAbdelmonem/NorhanAbdelmonem/raw/main/banner.gif)  
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
-
-
-
-
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NorhanAbdelmonem&show_icons=true&theme=radical" 
-    alt="Top Languages" 
-    height="170" 
-    />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorhanAbdelmonem&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
-
-
-
-
-
-<h2>🏆 Achievements</h2>
-<div align="center">
-  <a href="https://github.com/NorhanAbdelmonem/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NorhanAbdelmonem&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=FFD700" alt="GitHub Habiba" />
-  </a>
-</div>
-
-
-
-
-
+## 🚀 About Me
+I'm a passionate Backend Developer with experience in building scalable APIs using **Java** and **Spring Boot**.  
+Also skilled in Frontend technologies and database management, always eager to learn and collaborate on meaningful projects.
 
 ---
 
+## 🛠️ Tech Stack
 
+| Frontend        | Backend            | Databases          | Tools & Others            |
+| --------------- | ------------------ | ------------------ | ------------------------ |
+| HTML, CSS, JS, Bootstrap | Java, Spring Boot    | MySQL, MongoDB     | Postman, Docker, Git, GitHub, C++ |
 
-### 💫 Let's Connect!
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1FAVPCRuJoznJwIfu_LNrn1m5vM4tDear)
-<p align="left">
-<a href="https://www.linkedin.com/in/norhan-elkholy-001b99260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Norhan" height="30" width="40" /></a>
+---
 
-</p>
+## 📂 Projects & Work  
+Explore my repositories for hands-on projects including a full-fledged E-Commerce backend and more!
 
+---
 
-<div align="center">
-<p>Hit me with a follow! I'll follow back 😊</p>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
-</div>
+## 📈 GitHub Stats
+
+![Norhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorhanAbdelmonem&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorhanAbdelmonem&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/norhan-elkholy-001b99260/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/NorhanAbdelmonem)  
+
+---
+
+## 📄 [My CV](https://drive.google.com/drive/folders/1FAVPCRuJoznJwIfu_LNrn1m5vM4tDear)  
+
+---
+
+✨ Thanks for visiting my profile! Let's build something amazing together! 🚀  
