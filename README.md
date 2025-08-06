@@ -1,20 +1,19 @@
-# 👋 Hi, I'm Norhan Abdelmonem (Lightou) 🌟
+# 👋 Hi, I'm Norhan Abdelmonem  🌟
 
 ![header](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Java+Backend+Wizard;Spring+Boot+Maestro;Problem-Solving+Ninja;Crafting+Awesome+APIs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=I'm+Java+Backend+Developer;I'm+learning+Spring+Boot;Problem-Solving+Crafting+Awesome+APIs!" />
 </p>
+---
+
+## 🚀 About Me
+I'm a passionate  Backend Developer with experience building scalable APIs using *Java* and *Spring Boot*.  
+Also skilled in Frontend technologies and database management, always eager to learn and collaborate on meaningful projects.
 
 ---
 
-## 🌟 About Me
-I'm a passionate **Backend Developer** who loves building scalable APIs with **Java** and **Spring Boot**.  
-Skilled in Frontend tech and database management too, I'm always pumped to learn, collaborate, and bring some fun to coding (موت موت style 😂). Let's create something epic!
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,45 +29,31 @@ Skilled in Frontend tech and database management too, I'm always pumped to learn
 
 ---
 
-## 🚀 Projects That Spark Joy
-Check out my [GitHub repositories](https://github.com/NorhanAbdelmonem?tab=repositories) for cool projects like:  
-- 🛒 A **full-fledged E-Commerce backend** built with Spring Boot, packed with features.  
-- 🧩 Problem-solving challenges that flex my coding skills.  
-- ✨ More exciting stuff in the works—stay tuned!
+## 📂 Projects & Work  
+Explore my repositories for hands-on projects including a full-fledged E-Commerce backend and more!
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBI73gWquCl8LuM/giphy.gif" width="200" alt="Coding vibes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NorhanAbdelmonem&show_icons=true&theme=radical" alt="Norhan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorhanAbdelmonem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Numbers Are Fun!)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NorhanAbdelmonem&show_icons=true&theme=dracula&hide_border=true" alt="Norhan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorhanAbdelmonem&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NorhanAbdelmonem&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌐 Connect with Me
+## 📫 Connect with me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/norhan-elkholy-001b99260/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://github.com/NorhanAbdelmonem" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" />
   </a>
 </p>
 
@@ -78,20 +63,4 @@ Check out my [GitHub repositories](https://github.com/NorhanAbdelmonem?tab=repos
 
 ---
 
-## 🎉 Fun Fact
-When I'm not coding, I'm probably sipping coffee, debugging life, or laughing at random GIFs (like that one up there 😂). Let's build something legendary!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9kt7F7iE/giphy.gif" width="150" alt="Coffee and code" />
-</p>
-
----
-
-## ✨ What's New?
-- 🔧 Working on a slick **microservices project**—watch this space!  
-- 📚 Diving into **Kubernetes** to boost my DevOps skills.  
-- 🎯 Open to teaming up on open-source projects or fun coding challenges!
-
----
-
-🌟 *Code hard, laugh harder!* 🚀 Let's create something awesome together!
+✨ Thanks for visiting my profile! Let's build something amazing together! 🚀
