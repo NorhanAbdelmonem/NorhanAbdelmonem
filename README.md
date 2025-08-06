@@ -9,9 +9,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=I'm+Java+Backend+Developer;I'm+learning+Spring+Boot;I'm+Problem-Solver;+Crafting+Awesome+APIs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=500&color=9B59B6&center=true&vCenter=true&width=500&lines=I'm+Java+Backend+Developer;I'm+learning+Spring+Boot;I'm+Problem-Solver;+Crafting+Awesome+APIs!" />
 </p>
----
+
 
 ## 🚀 About Me
 I'm a passionate  Backend Developer with experience building scalable APIs using *Java* and *Spring Boot*.  
