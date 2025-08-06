@@ -6,7 +6,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=5A88CA&center=true&vCenter=true&width=450&lines=Java+Backend+Developer;I'm+Learning+SpringBoot+;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=5A88CA&center=true&vCenter=true&width=450&lines=I'm+Java+Backend+Developer;I'm+Learning+Spring+Boot+;Problem+Solver)
 
 ---
 
