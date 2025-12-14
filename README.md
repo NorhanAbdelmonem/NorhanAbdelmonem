@@ -2,9 +2,7 @@
   <h1>      👋 Hi, I'm Norhan Abdelmonem  </h1>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="header" />
-</p>
+
 
 ---
 
